@@ -9,13 +9,13 @@
     {
         "device_id": "baeba06a2d90a488",
         "username": "Ranjeet",
-        "password": "11223344",
+        "password": "12345678",
         "expirydate": "15-03-2026",
         "Allowoffline": false
     },
     {
         "device_id": "",
-        "username": "Deepak",
+        "username": "12345678",
         "password": "11223344",
         "expirydate": "17-03-2026",
         "Allowoffline": false
