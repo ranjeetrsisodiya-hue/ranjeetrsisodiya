@@ -3,8 +3,8 @@
         "device_id": "d45fce01e96e62d0",
         "username": "admin",
         "password": "12345678",
-        "expirydate": "17-03-2026",
-        "Allowoffline": true
+        "expirydate": "15-02-2026",
+        "Allowoffline": false
     },
     {
         "device_id": "baeba06a2d90a488",
